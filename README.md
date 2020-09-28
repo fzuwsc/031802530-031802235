@@ -1,3 +1,3 @@
 # -结对编程作业
 
-hello,world!
+branch A is ready
