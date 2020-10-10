@@ -1,8 +1,4 @@
 
-<<<<<<< HEAD
-branch A is ready
-
-branch B is ready
 =======
 #目录是如何组织的
 - CSS/css目录里面包含了自己设计的css样式（包括背景图片img）和引用的zTree的树状图css样式
@@ -13,4 +9,4 @@ branch B is ready
 #如何使用本项目的页面
 - 下载（code→Download ZIP）至电脑并解压成文件夹
 - 在解压出的文件夹中找到Tree.html 右键→打开方式→Google Chrome
->>>>>>> upstream/master
+
